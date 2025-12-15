@@ -77,8 +77,8 @@
 
 ## 📫 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🌐 GitHub: [https://github.com/your-username](https://github.com/your-username)
+* 📧 Email: [your-email@example.com](mailto:nguyenhuyhoang2k4smart-email@example.com)
+* 🌐 GitHub: [https://github.com/your-username]([https://github.com/your-username](https://github.com/NGUYEN-HOANG-HUY))
 
 ---
 
